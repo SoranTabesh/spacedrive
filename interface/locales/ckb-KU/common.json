@@ -68,5 +68,15 @@
 	"create_new_tag": "دروستكردنی تاگی نوێ",
 	"create_new_tag_description": "هەڵبژاردنی ناو و ڕەنگێک",
 	"create_tag": "دروستكردنی تاگ",
-	"created": "دروستكرا"
+	"created": "دروستكرا",
+	"creating_library": "دروستکردنی ژێدەرگە...",
+	"creating_your_library": "دروستکردنی ژێدەرگەکەت",
+	"current": "هەنووکە",
+	"current_directory": "پێڕستی ئێستا",
+	"current_directory_with_descendants": "پێڕستی ئێستا لەگەڵ ژێر پێڕستەکان",
+	"custom": "دڵخواز و ڕاسپێراو",
+	"cut": "بڕین",
+	"cut_object": "بڕینی تەن",
+	"data_folder": "بوخچه دراوە",
+	"debug_mode": "دۆخی دیباگ"
 }
