@@ -103,6 +103,7 @@
 	"direction": "ڕێڕەو و نێونیشان",
 	"disabled": "لەکارکەوتووە",
 	"disconnected": "پچڕا",
+	"display_formats": "فۆرماتەکانی پیشاندان",
 	"display_name": "نێوی پیشاندان",
 	"distance": "دووری و ماوە",
 	"done": "تەواو",
@@ -127,5 +128,13 @@
 	"error": "هه‌ڵه",
 	"error_loading_original_file": "هەڵە لە بارکردنی پەڕگەی ئەسڵی",
 	"expand": "فراوانکردن",
-	"explorer": "گه‌ڕاڵ"
+	"explorer": "گه‌ڕاڵ",
+	"explorer_shortcut_description": "بۆ ڕێدۆزی و پەیوەندی کردن لەگەڵ سیستەمی فایلەکاندا",
+	"export": "هه‌نارده",
+	"export_library": "هه‌ناردەی ژێدەرگە",
+	"export_library_coming_soon": "هه‌ناردەی ژێدەرگە بەم زووانە",
+	"export_library_description": ".هەناردە کردنی ئەم ژێدەرگە بۆ فایلێک",
+	"extensions": "درێژکراوەکان",
+	"extensions_description": "درێژکراوەکان دابمەرزێنە بۆ درێژکردنەوەی کارایی ئەم کلایەنتە.",
+	"fahrenheit": "فارنهایت"
 }
