@@ -116,5 +116,9 @@
 	"edit_location": "ده‌ستكاری شوێن",
 	"enable_networking": "تواناپێدانی تۆڕ",
 	"encrypt": "نهێنیكردن",
-	"encrypt_library": "نهێنیكردنی ژێدەرگە"
+	"encrypt_library": "نهێنیكردنی ژێدەرگە",
+	"encrypt_library_coming_soon": "کۆدکردنی ژێدەرگە بەم زووانە",
+	"encrypt_library_description": "کۆدکردن بۆ ئەم ژێدەرگەیە چالاک بکە، ئەمە تەنها بنکەدراوەی Spacedrive کۆد دەکات نەک خودی فایلەکان.",
+	"ephemeral_notice_browse": "گەڕان بە فایل و فۆڵدەرەکانتدا ڕاستەوخۆ لە ئامێرەکەتەوە ",
+	"ephemeral_notice_consider_indexing": "بیر لەوە بکەرەوە کە شوێنە خۆماڵییەکانت پێرست بکەیت بۆ گەڕانێکی خێراتر و کاراتر."
 }
