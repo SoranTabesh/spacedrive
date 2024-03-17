@@ -102,5 +102,11 @@
 	"dialog_shortcut_description": "بۆ ئەنجامدانی کردە و کارەکان",
 	"direction": "ڕێڕەو و نێونیشان",
 	"disabled": "لەکارکەوتووە",
-	"disconnected": "پچڕا"
+	"disconnected": "پچڕا",
+	"display_name": "نێوی پیشاندان",
+	"distance": "دووری و ماوە",
+	"done": "تەواو",
+	"dont_show_again": "دووبارە پێشانی مەدە با وەڕەزم نەکات",
+	"double_click_action": "کردەی دوجار کرتەکردن",
+	"download": "داگرتن"
 }
