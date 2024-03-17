@@ -108,5 +108,13 @@
 	"done": "تەواو",
 	"dont_show_again": "دووبارە پێشانی مەدە با وەڕەزم نەکات",
 	"double_click_action": "کردەی دوجار کرتەکردن",
-	"download": "داگرتن"
+	"download": "داگرتن",
+	"duplicate": "دووبارە کردنەوە",
+	"duplicate_object": "تەنی دووبارە",
+	"edit": "ده‌ستكاری",
+	"edit_library": "ده‌ستكاری ژێدەرگە",
+	"edit_location": "ده‌ستكاری شوێن",
+	"enable_networking": "تواناپێدانی تۆڕ",
+	"encrypt": "نهێنیكردن",
+	"encrypt_library": "نهێنیكردنی ژێدەرگە"
 }
